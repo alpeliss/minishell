@@ -2,11 +2,10 @@
 
 void	ft_invalid(t_prog pr)
 {
-	write(pr.out_fd,"bash: ", 6);
+	write(pr.out_fd, "bash: ", 6);
 	write(pr.out_fd, pr.argv[0], str_len(pr.argv[0]));
-	write(pr.out_fd,": command not found\n", 20);
+	write(pr.out_fd, ": command not found\n", 20);
 }
-
 
 void	builtin_exe(t_prog pr)
 {
@@ -24,8 +23,10 @@ void	builtin_exe(t_prog pr)
 		ft_unset(pr);
 	else if (!(str_cmp(pr.argv[0], "env")))
 		ft_env(pr);
-	/*else if (!(str_cmp(pr.argv[0], "exit")))
-		ft_exit(pr);*/
+	/*
+	** else if (!(str_cmp(pr.argv[0], "exit")))
+	** ft_exit(pr);
+	*/
 	else
 		ft_invalid(pr);
 }

@@ -1,25 +1,11 @@
 #include "msh.h"
 
-t_env	*is_it_there(char *str)
-{
-	t_llst	*tmp;
-	t_env	*data;
-
-	tmp = g_msh_env;
-	while (tmp)
-	{
-		data = tmp->data;
-		if (!(str_cmp(data->key, str)))
-			return (data);
-		tmp = tmp->next;
-	}
-	return (0);
-}
-
 void	delete_env(t_llst *l)
 {
-	free(((t_env *)l->data)->key);
-	free(((t_env *)l->data)->def);
+	if (((t_env *)l->data)->key)
+		free(((t_env *)l->data)->key);
+	if (((t_env *)l->data)->def)
+		free(((t_env *)l->data)->def);
 	free(l->data);
 }
 
@@ -48,5 +34,4 @@ void	unset_env(char *str)
 		}
 		tmp = tmp->next;
 	}
-	write(1, "C\n", 2);
 }

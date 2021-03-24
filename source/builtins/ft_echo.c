@@ -1,6 +1,6 @@
-#include "../../include/msh.h"
+#include "msh.h"
 
-int	is_option(char *str)
+static int	is_option(char *str)
 {
 	int	i;
 
@@ -13,21 +13,19 @@ int	is_option(char *str)
 	i = 1;
 	while (str[++i])
 		if (str[i] != 'n')
-			return(0);
+			return (0);
 	return (1);
-
 }
 
-
-void	ft_echo(t_prog pr)
+void		ft_echo(t_prog pr)
 {
-	int	i;
-	int	opt;
-	char	*str;
+	int		i;
+	int		opt;
+	t_env	*str;
 
 	i = 1;
 	opt = 1;
-	while (i < pr.argc  && is_option(pr.argv[i]))
+	while (i < pr.argc && is_option(pr.argv[i]))
 	{
 		i++;
 		opt = 0;
@@ -36,12 +34,12 @@ void	ft_echo(t_prog pr)
 	{
 		if (pr.argv[i][0] == '$' && pr.argv[i][1])
 		{
-			str = is_it_there(&pr.argv[i][1]);
-			write(pr.out_fd, str, str_len(str));
+			str = msh_env_get(&pr.argv[i][1]);
+			write(pr.out_fd, str->def, str_len(str->def));
 		}
 		write(pr.out_fd, pr.argv[i], str_len(pr.argv[i]));
 		i++;
-		if (i < pr.argc)	
+		if (i < pr.argc)
 			write(pr.out_fd, " ", 1);
 	}
 	if (opt)

@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   environement.h                                     :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ancoulon <ancoulon@student.s19.be>         +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/03/16 11:02:27 by ancoulon          #+#    #+#             */
-/*   Updated: 2021/03/17 15:58:07 by ancoulon         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #ifndef ENVIRONEMENT_H
 #define ENVIRONEMENT_H
 
@@ -29,8 +17,10 @@ void msh_env(char **envp);
 char **msh_env_all(void);
 
 t_env *msh_env_get(char *key);
+t_env *env_new(void);
 
-char **msh_env_set(char *key, char*def);
+t_env	*extract_data(char *str);
+void	msh_env_set(t_env *entry);
 
 void env_print(void);
 

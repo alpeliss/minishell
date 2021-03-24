@@ -1,3 +1,6 @@
+#ifndef BUILTINS_H
+#define BUILTINS_H
+
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -20,4 +23,5 @@ void	ft_env(t_prog pr);
 void	unset_env(char *str);
 void	delete_env(t_llst *l);
 
-t_env	*is_it_there(char *str);
+
+#endif

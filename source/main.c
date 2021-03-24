@@ -1,4 +1,4 @@
-#include "../../include/msh.h"
+#include "msh.h"
 
 int main(int ac, char **av, char **env)
 {
@@ -11,11 +11,11 @@ int main(int ac, char **av, char **env)
 	pr.in_fd = 0;
 	pr.out_fd = 1;
 //	ft_pwd(pr);
-//	env_print();
+	env_print();
 	builtin_exe(pr);
 //	pr.argc = 1;
 //	builtin_exe(pr);
-//	env_print();
+	env_print();
 //	ft_pwd(pr);
 	return(0);
 }
