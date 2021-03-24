@@ -1,0 +1,1697 @@
+declare -x Apple_PubSub_Socket_Render="/private/tmp/com.apple.launchd.jUyb3PCR2x/Render"
+
+declare -x COLORFGBG="7;0"
+
+
+TERM_SESSION_ID VS Apple_PubSub_Socket_Render = 19 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS Apple_PubSub_Socket_Render = 18 old_val = 19
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS Apple_PubSub_Socket_Render = 11 old_val = 18
+next_printLC_TERMINAL_VERSION
+
+Apple_PubSub_Socket_Render VS Apple_PubSub_Socket_Render = 0 old_val = 11
+next_printLC_TERMINAL_VERSION
+
+COLORFGBG VS Apple_PubSub_Socket_Render = 2 old_val = 11
+next_printCOLORFGBG
+
+ITERM_PROFILE VS Apple_PubSub_Socket_Render = 8 old_val = 2
+next_printCOLORFGBG
+
+XPC_FLAGS VS Apple_PubSub_Socket_Render = 23 old_val = 2
+next_printCOLORFGBG
+
+LANG VS Apple_PubSub_Socket_Render = 11 old_val = 2
+next_printCOLORFGBG
+
+PWD VS Apple_PubSub_Socket_Render = 15 old_val = 2
+next_printCOLORFGBG
+
+SHELL VS Apple_PubSub_Socket_Render = 18 old_val = 2
+next_printCOLORFGBG
+
+TERM_PROGRAM_VERSION VS Apple_PubSub_Socket_Render = 19 old_val = 2
+next_printCOLORFGBG
+
+TERM_PROGRAM VS Apple_PubSub_Socket_Render = 19 old_val = 2
+next_printCOLORFGBG
+
+PATH VS Apple_PubSub_Socket_Render = 15 old_val = 2
+next_printCOLORFGBG
+
+LC_TERMINAL VS Apple_PubSub_Socket_Render = 11 old_val = 2
+next_printCOLORFGBG
+
+COLORTERM VS Apple_PubSub_Socket_Render = 2 old_val = 2
+next_printCOLORFGBG
+
+TERM VS Apple_PubSub_Socket_Render = 19 old_val = 2
+next_printCOLORFGBG
+
+HOME VS Apple_PubSub_Socket_Render = 7 old_val = 2
+next_printCOLORFGBG
+
+TMPDIR VS Apple_PubSub_Socket_Render = 19 old_val = 2
+next_printCOLORFGBG
+
+USER VS Apple_PubSub_Socket_Render = 20 old_val = 2
+next_printCOLORFGBG
+
+XPC_SERVICE_NAME VS Apple_PubSub_Socket_Render = 23 old_val = 2
+next_printCOLORFGBG
+
+LOGNAME VS Apple_PubSub_Socket_Render = 11 old_val = 2
+next_printCOLORFGBG
+
+ITERM_SESSION_ID VS Apple_PubSub_Socket_Render = 8 old_val = 2
+next_printCOLORFGBG
+
+__CF_USER_TEXT_ENCODING VS Apple_PubSub_Socket_Render = 30 old_val = 2
+next_printCOLORFGBG
+
+SHLVL VS Apple_PubSub_Socket_Render = 18 old_val = 2
+next_printCOLORFGBG
+
+OLDPWD VS Apple_PubSub_Socket_Render = 14 old_val = 2
+next_printCOLORFGBG
+
+ZSH VS Apple_PubSub_Socket_Render = 25 old_val = 2
+next_printCOLORFGBG
+
+PAGER VS Apple_PubSub_Socket_Render = 15 old_val = 2
+next_printCOLORFGBG
+
+LESS VS Apple_PubSub_Socket_Render = 11 old_val = 2
+next_printCOLORFGBG
+
+LSCOLORS VS Apple_PubSub_Socket_Render = 11 old_val = 2
+next_printCOLORFGBG
+
+HOMEBREW_CACHE VS Apple_PubSub_Socket_Render = 7 old_val = 2
+next_printCOLORFGBG
+
+HOMEBREW_TEMP VS Apple_PubSub_Socket_Render = 7 old_val = 2
+next_printCOLORFGBG
+
+_ VS Apple_PubSub_Socket_Render = 30 old_val = 2
+next_printCOLORFGBG
+
+TERM_SESSION_ID VS COLORFGBG = 17 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS COLORFGBG = 16 old_val = 17
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS COLORFGBG = 9 old_val = 16
+next_printLC_TERMINAL_VERSION
+
+Apple_PubSub_Socket_Render VS COLORFGBG = -2 old_val = 9
+next_printLC_TERMINAL_VERSION
+
+COLORFGBG VS COLORFGBG = 0 old_val = 9
+next_printLC_TERMINAL_VERSION
+
+ITERM_PROFILE VS COLORFGBG = 6 old_val = 9
+next_printITERM_PROFILE
+
+XPC_FLAGS VS COLORFGBG = 21 old_val = 6
+next_printITERM_PROFILE
+
+LANG VS COLORFGBG = 9 old_val = 6
+next_printITERM_PROFILE
+
+PWD VS COLORFGBG = 13 old_val = 6
+next_printITERM_PROFILE
+
+SHELL VS COLORFGBG = 16 old_val = 6
+next_printITERM_PROFILE
+
+TERM_PROGRAM_VERSION VS COLORFGBG = 17 old_val = 6
+next_printITERM_PROFILE
+
+TERM_PROGRAM VS COLORFGBG = 17 old_val = 6
+next_printITERM_PROFILE
+
+PATH VS COLORFGBG = 13 old_val = 6
+next_printITERM_PROFILE
+
+LC_TERMINAL VS COLORFGBG = 9 old_val = 6
+next_printITERM_PROFILE
+
+COLORTERM VS COLORFGBG = 14 old_val = 6
+next_printITERM_PROFILE
+
+TERM VS COLORFGBG = 17 old_val = 6
+next_printITERM_PROFILE
+
+HOME VS COLORFGBG = 5 old_val = 6
+next_printHOME
+
+TMPDIR VS COLORFGBG = 17 old_val = 5
+next_printHOME
+
+USER VS COLORFGBG = 18 old_val = 5
+next_printHOME
+
+XPC_SERVICE_NAME VS COLORFGBG = 21 old_val = 5
+next_printHOME
+
+LOGNAME VS COLORFGBG = 9 old_val = 5
+next_printHOME
+
+ITERM_SESSION_ID VS COLORFGBG = 6 old_val = 5
+next_printHOME
+
+__CF_USER_TEXT_ENCODING VS COLORFGBG = 28 old_val = 5
+next_printHOME
+
+SHLVL VS COLORFGBG = 16 old_val = 5
+next_printHOME
+
+OLDPWD
+declare -x HOME="/Users/alpeliss"
+
+
+
+declare -x ITERM_PROFILE="Default"
+
+
+ VS COLORFGBG = 12 old_val = 5
+next_printHOME
+
+ZSH VS COLORFGBG = 23 old_val = 5
+next_printHOME
+
+PAGER VS COLORFGBG = 13 old_val = 5
+next_printHOME
+
+LESS VS COLORFGBG = 9 old_val = 5
+next_printHOME
+
+LSCOLORS VS COLORFGBG = 9 old_val = 5
+next_printHOME
+
+HOMEBREW_CACHE VS COLORFGBG = 5 old_val = 5
+next_printHOME
+
+HOMEBREW_TEMP VS COLORFGBG = 5 old_val = 5
+next_printHOME
+
+_ VS COLORFGBG = 28 old_val = 5
+next_printHOME
+
+TERM_SESSION_ID VS HOME = 12 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS HOME = 11 old_val = 12
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS HOME = 4 old_val = 11
+next_printLC_TERMINAL_VERSION
+
+Apple_PubSub_Socket_Render VS HOME = -7 old_val = 4
+next_printLC_TERMINAL_VERSION
+
+COLORFGBG VS HOME = -5 old_val = 4
+next_printLC_TERMINAL_VERSION
+
+ITERM_PROFILE VS HOME = 1 old_val = 4
+next_printITERM_PROFILE
+
+XPC_FLAGS VS HOME = 16 old_val = 1
+next_printITERM_PROFILE
+
+LANG VS HOME = 4 old_val = 1
+next_printITERM_PROFILE
+
+PWD VS HOME = 8 old_val = 1
+next_printITERM_PROFILE
+
+SHELL VS HOME = 11 old_val = 1
+next_printITERM_PROFILE
+
+TERM_PROGRAM_VERSION VS HOME = 12 old_val = 1
+next_printITERM_PROFILE
+
+TERM_PROGRAM VS HOME = 12 old_val = 1
+next_printITERM_PROFILE
+
+PATH VS HOME = 8 old_val = 1
+next_printITERM_PROFILE
+
+LC_TERMINAL VS HOME = 4 old_val = 1
+next_printITERM_PROFILE
+
+COLORTERM VS HOME = -5 old_val = 1
+next_printITERM_PROFILE
+
+TERM VS HOME = 12 old_val = 1
+next_printITERM_PROFILE
+
+HOME VS HOME = 0 old_val = 1
+next_printITERM_PROFILE
+
+TMPDIR VS HOME = 12 old_val = 1
+next_printITERM_PROFILE
+
+USER VS HOME = 13 old_val = 1
+next_printITERM_PROFILE
+
+XPC_SERVICE_NAME VS HOME = 16 old_val = 1
+next_printITERM_PROFILE
+
+LOGNAME VS HOME = 4 old_val = 1
+next_printITERM_PROFILE
+
+ITERM_SESSION_ID VS HOME = 1 old_val = 1
+next_printITERM_PROFILE
+
+__CF_USER_TEXT_ENCODING VS HOME = 23 old_val = 1
+next_printITERM_PROFILE
+
+SHLVL VS HOME = 11 old_val = 1
+next_printITERM_PROFILE
+
+OLDPWD VS HOME = 7 old_val = 1
+next_printITERM_PROFILE
+
+ZSH VS HOME = 18 old_val = 1
+next_printITERM_PROFILE
+
+PAGER VS HOME = 8 old_val = 1
+next_printITERM_PROFILE
+
+LESS VS HOME = 4 old_val = 1
+next_printITERM_PROFILE
+
+LSCOLORS VS HOME = 4 old_val = 1
+next_printITERM_PROFILE
+
+HOMEBREW_CACHE VS HOME = 66 old_val = 1
+next_printITERM_PROFILE
+
+HOMEBREW_TEMP VS HOME = 66 old_val = 1
+next_printITERM_PROFILE
+
+_ VS HOME = 23 old_val = 1
+next_printITERM_PROFILE
+
+TERM_SESSION_ID VS ITERM_PROFILE = 11 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS ITERM_PROFILE = 10 old_val = 11
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS ITERM_PROFILE = 3 old_val = 10
+next_printLC_TERMINAL_VERSION
+
+Apple_PubSub_Socket_Render VS ITERM_PROFILE = -8 old_val = 3
+next_printLC_TERMINAL_VERSION
+
+COLORFGBG VS ITERM_PROFILE = -6 old_val = 3
+next_printLC_TERMINAL_VERSION
+
+ITERM_PROFILE VS ITERM_PROFILE = 0 old_val = 3
+next_printLC_TERMINAL_VERSION
+
+XPC_FLAGS VS ITERM_PROFILE = 15 old_val = 3
+next_printLC_TERMINAL_VERSION
+
+LANG VS ITERM_PROFILE = 3 old_val = 3
+next_printLANG
+
+PWD VS ITERM_PROFILE = 7 old_val = 3
+next_printLANG
+
+SHELL VS ITERM_PROFILE = 10 old_val = 3
+next_printLANG
+
+TERM_PROGRAM_VERSION VS ITERM_PROFILE = 11 old_val = 3
+next_printLANG
+
+TERM_PROGRAM VS ITERM_PROFILE = 11 old_val = 3
+next_printLANG
+
+PATH VS ITERM_PROFILE = 7 old_val = 3
+next_printLANG
+
+LC_TERMINAL VS ITERM_PROFILE = 3 old_val = 3
+next_printLANG
+
+COLORTERM VS ITERM_PROFILE = -6 old_val = 3
+next_printLANG
+
+TERM VS ITERM_PROFILE = 11 old_val = 3
+next_printLANG
+
+HOME VS ITERM_PROFILE = -1 old_val = 3
+next_printLANG
+
+TMPDIR VS ITERM_PROFILE = 11 old_val = 3
+next_printLANG
+
+USER VS ITERM_PROFILE = 12 old_val = 3
+next_printLANG
+
+XPC_SERVICE_NAME VS ITERM_PROFILE = 15 old_val = 3
+next_printLANG
+
+LOGNAME VS ITERM_PROFILE = 3 old_val = 3
+next_printLANG
+
+ITERM_SESSION_ID VS ITERM_PROFILE = 3 old_val = 3
+next_printITERM_SESSION_ID
+
+__CF_USER_TEXT_ENCODING VS ITERM_PROFILE = 22 old_val = 3
+next_printITERM_SESSION_ID
+
+SHLVL VS ITERM_PROFILE = 10 old_val = 3
+next_printITERM_SESSION_ID
+
+OLDPWD VS ITERM_PROFILE = 6 old_val = 3
+next_printITERM_SESSION_ID
+
+ZSH VS ITERM_PROFILE = 17 old_val = 3
+next_print
+declare -x ITERM_SESSION_ID="w0t0p1:D3B42871-8DBE-439B-AA83-920EE18B7787"
+
+
+
+declare -x LANG="en_US.UTF-8"
+
+
+ITERM_SESSION_ID
+
+PAGER VS ITERM_PROFILE = 7 old_val = 3
+next_printITERM_SESSION_ID
+
+LESS VS ITERM_PROFILE = 3 old_val = 3
+next_printITERM_SESSION_ID
+
+LSCOLORS VS ITERM_PROFILE = 3 old_val = 3
+next_printITERM_SESSION_ID
+
+HOMEBREW_CACHE VS ITERM_PROFILE = -1 old_val = 3
+next_printITERM_SESSION_ID
+
+HOMEBREW_TEMP VS ITERM_PROFILE = -1 old_val = 3
+next_printITERM_SESSION_ID
+
+_ VS ITERM_PROFILE = 22 old_val = 3
+next_printITERM_SESSION_ID
+
+TERM_SESSION_ID VS ITERM_SESSION_ID = 11 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS ITERM_SESSION_ID = 10 old_val = 11
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS ITERM_SESSION_ID = 3 old_val = 10
+next_printLC_TERMINAL_VERSION
+
+Apple_PubSub_Socket_Render VS ITERM_SESSION_ID = -8 old_val = 3
+next_printLC_TERMINAL_VERSION
+
+COLORFGBG VS ITERM_SESSION_ID = -6 old_val = 3
+next_printLC_TERMINAL_VERSION
+
+ITERM_PROFILE VS ITERM_SESSION_ID = -3 old_val = 3
+next_printLC_TERMINAL_VERSION
+
+XPC_FLAGS VS ITERM_SESSION_ID = 15 old_val = 3
+next_printLC_TERMINAL_VERSION
+
+LANG VS ITERM_SESSION_ID = 3 old_val = 3
+next_printLANG
+
+PWD VS ITERM_SESSION_ID = 7 old_val = 3
+next_printLANG
+
+SHELL VS ITERM_SESSION_ID = 10 old_val = 3
+next_printLANG
+
+TERM_PROGRAM_VERSION VS ITERM_SESSION_ID = 11 old_val = 3
+next_printLANG
+
+TERM_PROGRAM VS ITERM_SESSION_ID = 11 old_val = 3
+next_printLANG
+
+PATH VS ITERM_SESSION_ID = 7 old_val = 3
+next_printLANG
+
+LC_TERMINAL VS ITERM_SESSION_ID = 3 old_val = 3
+next_printLANG
+
+COLORTERM VS ITERM_SESSION_ID = -6 old_val = 3
+next_printLANG
+
+TERM VS ITERM_SESSION_ID = 11 old_val = 3
+next_printLANG
+
+HOME VS ITERM_SESSION_ID = -1 old_val = 3
+next_printLANG
+
+TMPDIR VS ITERM_SESSION_ID = 11 old_val = 3
+next_printLANG
+
+USER VS ITERM_SESSION_ID = 12 old_val = 3
+next_printLANG
+
+XPC_SERVICE_NAME VS ITERM_SESSION_ID = 15 old_val = 3
+next_printLANG
+
+LOGNAME VS ITERM_SESSION_ID = 3 old_val = 3
+next_printLANG
+
+ITERM_SESSION_ID VS ITERM_SESSION_ID = 0 old_val = 3
+next_printLANG
+
+__CF_USER_TEXT_ENCODING VS ITERM_SESSION_ID = 22 old_val = 3
+next_printLANG
+
+SHLVL VS ITERM_SESSION_ID = 10 old_val = 3
+next_printLANG
+
+OLDPWD VS ITERM_SESSION_ID = 6 old_val = 3
+next_printLANG
+
+ZSH VS ITERM_SESSION_ID = 17 old_val = 3
+next_printLANG
+
+PAGER VS ITERM_SESSION_ID = 7 old_val = 3
+next_printLANG
+
+LESS VS ITERM_SESSION_ID = 3 old_val = 3
+next_printLANG
+
+LSCOLORS VS ITERM_SESSION_ID = 3 old_val = 3
+next_printLANG
+
+HOMEBREW_CACHE VS ITERM_SESSION_ID = -1 old_val = 3
+next_printLANG
+
+HOMEBREW_TEMP VS ITERM_SESSION_ID = -1 old_val = 3
+next_printLANG
+
+_ VS ITERM_SESSION_ID = 22 old_val = 3
+next_printLANG
+
+TERM_SESSION_ID VS LANG = 8 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS LANG = 7 old_val = 8
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS LANG = 2 old_val = 7
+next_printLC_TERMINAL_VERSION
+
+Apple_PubSub_Socket_Render VS LANG = -11 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+COLORFGBG VS LANG = -9 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+ITERM_PROFILE VS LANG = -3 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+XPC_FLAGS VS LANG = 12 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+LANG VS LANG = 0 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+PWD VS LANG = 4 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+SHELL VS LANG = 7 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+TERM_PROGRAM_VERSION VS LANG = 8 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+TERM_PROGRAM VS LANG = 8 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+PATH VS LANG = 4 old_val = 2
+next_printLC_TERMINAL_VERSION
+
+LC_TERMINAL VS LANG = 2 old_val = 2
+next_printLC_TERMINAL
+
+COLORTERM VS LANG = -9 old_val = 2
+next_printLC_TERMINAL
+
+TERM VS LANG = 8 old_val = 2
+next_printLC_TERMINAL
+
+HOME VS LANG = -4 old_val = 2
+next_printLC_TERMINAL
+
+TMPDIR VS LANG = 8 old_val = 2
+next_printLC_TERMINAL
+
+USER VS LANG = 9 old_val = 2
+next_printLC_TERMINAL
+
+XPC_SERVICE_NAME VS LANG = 12 old_val = 2
+next_printLC_TERMINAL
+
+LOGNAME VS LANG = 14 old_val = 2
+next_printLC_TERMINAL
+
+ITERM_SESSION_ID VS LANG = -3 old_val = 2
+next_printLC_TERMINAL
+
+__CF_USER_TEXT_ENCODING VS LANG = 19 old_val = 2
+next_printLC_TERMINAL
+
+SHLVL VS LANG = 7 old_val = 2
+next_printLC_TERMINAL
+
+OLDPWD VS LANG = 
+declare -x LC_TERMINAL="iTerm2"
+
+
+
+declare -x LESS="-R"
+
+
+3 old_val = 2
+next_printLC_TERMINAL
+
+ZSH VS LANG = 14 old_val = 2
+next_printLC_TERMINAL
+
+PAGER VS LANG = 4 old_val = 2
+next_printLC_TERMINAL
+
+LESS VS LANG = 4 old_val = 2
+next_printLC_TERMINAL
+
+LSCOLORS VS LANG = 18 old_val = 2
+next_printLC_TERMINAL
+
+HOMEBREW_CACHE VS LANG = -4 old_val = 2
+next_printLC_TERMINAL
+
+HOMEBREW_TEMP VS LANG = -4 old_val = 2
+next_printLC_TERMINAL
+
+_ VS LANG = 19 old_val = 2
+next_printLC_TERMINAL
+
+TERM_SESSION_ID VS LC_TERMINAL = 8 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS LC_TERMINAL = 7 old_val = 8
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS LC_TERMINAL = 95 old_val = 7
+next_printSSH_AUTH_SOCK
+
+Apple_PubSub_Socket_Render VS LC_TERMINAL = -11 old_val = 7
+next_printSSH_AUTH_SOCK
+
+COLORFGBG VS LC_TERMINAL = -9 old_val = 7
+next_printSSH_AUTH_SOCK
+
+ITERM_PROFILE VS LC_TERMINAL = -3 old_val = 7
+next_printSSH_AUTH_SOCK
+
+XPC_FLAGS VS LC_TERMINAL = 12 old_val = 7
+next_printSSH_AUTH_SOCK
+
+LANG VS LC_TERMINAL = -2 old_val = 7
+next_printSSH_AUTH_SOCK
+
+PWD VS LC_TERMINAL = 4 old_val = 7
+next_printPWD
+
+SHELL VS LC_TERMINAL = 7 old_val = 4
+next_printPWD
+
+TERM_PROGRAM_VERSION VS LC_TERMINAL = 8 old_val = 4
+next_printPWD
+
+TERM_PROGRAM VS LC_TERMINAL = 8 old_val = 4
+next_printPWD
+
+PATH VS LC_TERMINAL = 4 old_val = 4
+next_printPATH
+
+LC_TERMINAL VS LC_TERMINAL = 0 old_val = 4
+next_printPATH
+
+COLORTERM VS LC_TERMINAL = -9 old_val = 4
+next_printPATH
+
+TERM VS LC_TERMINAL = 8 old_val = 4
+next_printPATH
+
+HOME VS LC_TERMINAL = -4 old_val = 4
+next_printPATH
+
+TMPDIR VS LC_TERMINAL = 8 old_val = 4
+next_printPATH
+
+USER VS LC_TERMINAL = 9 old_val = 4
+next_printPATH
+
+XPC_SERVICE_NAME VS LC_TERMINAL = 12 old_val = 4
+next_printPATH
+
+LOGNAME VS LC_TERMINAL = 12 old_val = 4
+next_printPATH
+
+ITERM_SESSION_ID VS LC_TERMINAL = -3 old_val = 4
+next_printPATH
+
+__CF_USER_TEXT_ENCODING VS LC_TERMINAL = 19 old_val = 4
+next_printPATH
+
+SHLVL VS LC_TERMINAL = 7 old_val = 4
+next_printPATH
+
+OLDPWD VS LC_TERMINAL = 3 old_val = 4
+next_printOLDPWD
+
+ZSH VS LC_TERMINAL = 14 old_val = 3
+next_printOLDPWD
+
+PAGER VS LC_TERMINAL = 4 old_val = 3
+next_printOLDPWD
+
+LESS VS LC_TERMINAL = 2 old_val = 3
+next_printLESS
+
+LSCOLORS VS LC_TERMINAL = 16 old_val = 2
+next_printLESS
+
+HOMEBREW_CACHE VS LC_TERMINAL = -4 old_val = 2
+next_printLESS
+
+HOMEBREW_TEMP VS LC_TERMINAL = -4 old_val = 2
+next_printLESS
+
+_ VS LC_TERMINAL = 19 old_val = 2
+next_printLESS
+
+TERM_SESSION_ID VS LESS = 8 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS LESS = 7 old_val = 8
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS LESS = -2 old_val = 7
+next_printSSH_AUTH_SOCK
+
+Apple_PubSub_Socket_Render VS LESS = -11 old_val = 7
+next_printSSH_AUTH_SOCK
+
+COLORFGBG VS LESS = -9 old_val = 7
+next_printSSH_AUTH_SOCK
+
+ITERM_PROFILE VS LESS = -3 old_val = 7
+next_printSSH_AUTH_SOCK
+
+XPC_FLAGS VS LESS = 12 old_val = 7
+next_printSSH_AUTH_SOCK
+
+LANG VS LESS = -4 old_val = 7
+next_printSSH_AUTH_SOCK
+
+PWD VS LESS = 4 old_val = 7
+next_printPWD
+
+SHELL VS LESS = 7 old_val = 4
+next_printPWD
+
+TERM_PROGRAM_VERSION VS LESS = 8 old_val = 4
+next_printPWD
+
+TERM_PROGRAM VS LESS = 8 old_val = 4
+next_printPWD
+
+PATH VS LESS = 4 old_val = 4
+next_printPATH
+
+LC_TERMINAL VS LESS = -2 old_val = 4
+next_printPATH
+
+COLORTERM VS LESS = -9 old_val = 4
+next_printPATH
+
+TERM VS LESS = 8 old_val = 4
+next_printPATH
+
+HOME VS LESS = -4 old_val = 4
+next_printPATH
+
+TMPDIR VS LESS = 8 old_val = 4
+next_printPATH
+
+USER VS LESS = 9 old_val = 4
+next_printPATH
+
+XPC_SERVICE_NAME VS LESS = 12 old_val = 4
+next_printPATH
+
+LOGNAME VS LESS = 10 old_val = 4
+next_printPATH
+
+ITERM_SESSION_ID VS LESS = -3 old_val = 4
+next_printPATH
+
+__CF_USER_TEXT_ENCODING VS LESS = 19 old_val = 4
+next_printPATH
+
+SHLVL VS LESS = 7 old_val = 4
+next_printPATH
+
+OLDPWD VS LESS = 3 old_val = 4
+next_printOLDPWD
+
+ZSH VS LESS = 14 old_val = 3
+next_printOLDPWD
+
+PAGER VS LESS = 4 old_val = 3
+next_printOLDPWD
+
+LESS VS LESS = 0 old_val = 3
+next_printOLDPWD
+
+LSCOLORS VS LESS = 14 old_val = 3
+next_printOLDPWD
+
+HOMEBREW_CACHE VS LESS = -4 old_val = 3
+next_printOLDPWD
+
+HOMEBREW_TEMP VS LESS = -4 old_val = 3
+next_printOLDPWD
+
+_ VS LESS = 19 old_val = 3
+next_printOLDPWD
+
+declare -x OLDPWD="/Users/alpeliss/minishell/source"
+
+
+
+declare -x PAGER="less"
+
+
+
+declare -x SHELL="/bin/zsh"
+
+
+
+TERM_SESSION_ID VS OLDPWD = 5 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS OLDPWD = 4 old_val = 5
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS OLDPWD = -3 old_val = 4
+next_printSSH_AUTH_SOCK
+
+Apple_PubSub_Socket_Render VS OLDPWD = -14 old_val = 4
+next_printSSH_AUTH_SOCK
+
+COLORFGBG VS OLDPWD = -12 old_val = 4
+next_printSSH_AUTH_SOCK
+
+ITERM_PROFILE VS OLDPWD = -6 old_val = 4
+next_printSSH_AUTH_SOCK
+
+XPC_FLAGS VS OLDPWD = 9 old_val = 4
+next_printSSH_AUTH_SOCK
+
+LANG VS OLDPWD = -3 old_val = 4
+next_printSSH_AUTH_SOCK
+
+PWD VS OLDPWD = 1 old_val = 4
+next_printPWD
+
+SHELL VS OLDPWD = 4 old_val = 1
+next_printPWD
+
+TERM_PROGRAM_VERSION VS OLDPWD = 5 old_val = 1
+next_printPWD
+
+TERM_PROGRAM VS OLDPWD = 5 old_val = 1
+next_printPWD
+
+PATH VS OLDPWD = 1 old_val = 1
+next_printPATH
+
+LC_TERMINAL VS OLDPWD = -3 old_val = 1
+next_printPATH
+
+COLORTERM VS OLDPWD = -12 old_val = 1
+next_printPATH
+
+TERM VS OLDPWD = 5 old_val = 1
+next_printPATH
+
+HOME VS OLDPWD = -7 old_val = 1
+next_printPATH
+
+TMPDIR VS OLDPWD = 5 old_val = 1
+next_printPATH
+
+USER VS OLDPWD = 6 old_val = 1
+next_printPATH
+
+XPC_SERVICE_NAME VS OLDPWD = 9 old_val = 1
+next_printPATH
+
+LOGNAME VS OLDPWD = -3 old_val = 1
+next_printPATH
+
+ITERM_SESSION_ID VS OLDPWD = -6 old_val = 1
+next_printPATH
+
+__CF_USER_TEXT_ENCODING VS OLDPWD = 16 old_val = 1
+next_printPATH
+
+SHLVL VS OLDPWD = 4 old_val = 1
+next_printPATH
+
+OLDPWD VS OLDPWD = 0 old_val = 1
+next_printPATH
+
+ZSH VS OLDPWD = 11 old_val = 1
+next_printPATH
+
+PAGER VS OLDPWD = 1 old_val = 1
+next_printPAGER
+
+LESS VS OLDPWD = -3 old_val = 1
+next_printPAGER
+
+LSCOLORS VS OLDPWD = -3 old_val = 1
+next_printPAGER
+
+HOMEBREW_CACHE VS OLDPWD = -7 old_val = 1
+next_printPAGER
+
+HOMEBREW_TEMP VS OLDPWD = -7 old_val = 1
+next_printPAGER
+
+_ VS OLDPWD = 16 old_val = 1
+next_printPAGER
+
+TERM_SESSION_ID VS PAGER = 4 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS PAGER = 3 old_val = 4
+next_printSSH_AUTH_SOCK
+
+LC_TERMINAL_VERSION VS PAGER = -4 old_val = 3
+next_printSSH_AUTH_SOCK
+
+Apple_PubSub_Socket_Render VS PAGER = -15 old_val = 3
+next_printSSH_AUTH_SOCK
+
+COLORFGBG VS PAGER = -13 old_val = 3
+next_printSSH_AUTH_SOCK
+
+ITERM_PROFILE VS PAGER = -7 old_val = 3
+next_printSSH_AUTH_SOCK
+
+XPC_FLAGS VS PAGER = 8 old_val = 3
+next_printSSH_AUTH_SOCK
+
+LANG VS PAGER = -4 old_val = 3
+next_printSSH_AUTH_SOCK
+
+PWD VS PAGER = 22 old_val = 3
+next_printSSH_AUTH_SOCK
+
+SHELL VS PAGER = 3 old_val = 3
+next_printSHELL
+
+TERM_PROGRAM_VERSION VS PAGER = 4 old_val = 3
+next_printSHELL
+
+TERM_PROGRAM VS PAGER = 4 old_val = 3
+next_printSHELL
+
+PATH VS PAGER = 13 old_val = 3
+next_printSHELL
+
+LC_TERMINAL VS PAGER = -4 old_val = 3
+next_printSHELL
+
+COLORTERM VS PAGER = -13 old_val = 3
+next_printSHELL
+
+TERM VS PAGER = 4 old_val = 3
+next_printSHELL
+
+HOME VS PAGER = -8 old_val = 3
+next_printSHELL
+
+TMPDIR VS PAGER = 4 old_val = 3
+next_printSHELL
+
+USER VS PAGER = 5 old_val = 3
+next_printSHELL
+
+XPC_SERVICE_NAME VS PAGER = 8 old_val = 3
+next_printSHELL
+
+LOGNAME VS PAGER = -4 old_val = 3
+next_printSHELL
+
+ITERM_SESSION_ID VS PAGER = -7 old_val = 3
+next_printSHELL
+
+__CF_USER_TEXT_ENCODING VS PAGER = 15 old_val = 3
+next_printSHELL
+
+SHLVL VS PAGER = 3 old_val = 3
+next_printSHELL
+
+OLDPWD VS PAGER = -1 old_val = 3
+next_printSHELL
+
+ZSH VS PAGER = 10 old_val = 3
+next_printSHELL
+
+PAGER VS PAGER = 0 old_val = 3
+next_printSHELL
+
+LESS VS PAGER = -4 old_val = 3
+next_printSHELL
+
+LSCOLORS VS PAGER = -4 old_val = 3
+next_printSHELL
+
+HOMEBREW_CACHE VS PAGER = -8 old_val = 3
+next_printSHELL
+
+HOMEBREW_TEMP VS PAGER = -8 old_val = 3
+next_printSHELL
+
+_ VS PAGER = 15 old_val = 3
+next_printSHELL
+
+TERM_SESSION_ID VS SHELL = 1 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS SHELL = 11 old_val = 1
+next_printTERM_SESSION_ID
+
+LC_TERMINAL_VERSION VS SHELL = -7 old_val = 1
+next_printTERM_SESSION_ID
+
+Apple_PubSub_Socket_Render VS SHELL = -18 old_val = 1
+next_printTERM_SESSION_ID
+
+COLORFGBG VS SHELL = -16 old_val = 1
+next_printTERM_SESSION_ID
+
+ITERM_PROFILE VS SHELL = -10 old_val = 1
+next_printTERM_SESSION_ID
+
+XPC_FLAGS VS SHELL = 5 old_val = 1
+next_printTERM_SESSION_ID
+
+LANG VS SHELL = -7 old_val = 1
+next_printT
+declare -x TERM="xterm-256color"
+
+
+
+declare -x USER="alpeliss"
+
+
+ERM_SESSION_ID
+
+PWD VS SHELL = -3 old_val = 1
+next_printTERM_SESSION_ID
+
+SHELL VS SHELL = 0 old_val = 1
+next_printTERM_SESSION_ID
+
+TERM_PROGRAM_VERSION VS SHELL = 1 old_val = 1
+next_printTERM_PROGRAM_VERSION
+
+TERM_PROGRAM VS SHELL = 1 old_val = 1
+next_printTERM_PROGRAM
+
+PATH VS SHELL = -3 old_val = 1
+next_printTERM_PROGRAM
+
+LC_TERMINAL VS SHELL = -7 old_val = 1
+next_printTERM_PROGRAM
+
+COLORTERM VS SHELL = -16 old_val = 1
+next_printTERM_PROGRAM
+
+TERM VS SHELL = 1 old_val = 1
+next_printTERM
+
+HOME VS SHELL = -11 old_val = 1
+next_printTERM
+
+TMPDIR VS SHELL = 1 old_val = 1
+next_printTERM
+
+USER VS SHELL = 2 old_val = 1
+next_printTERM
+
+XPC_SERVICE_NAME VS SHELL = 5 old_val = 1
+next_printTERM
+
+LOGNAME VS SHELL = -7 old_val = 1
+next_printTERM
+
+ITERM_SESSION_ID VS SHELL = -10 old_val = 1
+next_printTERM
+
+__CF_USER_TEXT_ENCODING VS SHELL = 12 old_val = 1
+next_printTERM
+
+SHLVL VS SHELL = 7 old_val = 1
+next_printTERM
+
+OLDPWD VS SHELL = -4 old_val = 1
+next_printTERM
+
+ZSH VS SHELL = 7 old_val = 1
+next_printTERM
+
+PAGER VS SHELL = -3 old_val = 1
+next_printTERM
+
+LESS VS SHELL = -7 old_val = 1
+next_printTERM
+
+LSCOLORS VS SHELL = -7 old_val = 1
+next_printTERM
+
+HOMEBREW_CACHE VS SHELL = -11 old_val = 1
+next_printTERM
+
+HOMEBREW_TEMP VS SHELL = -11 old_val = 1
+next_printTERM
+
+_ VS SHELL = 12 old_val = 1
+next_printTERM
+
+TERM_SESSION_ID VS TERM = 95 old_val = -1
+next_printTERM_SESSION_ID
+
+SSH_AUTH_SOCK VS TERM = -1 old_val = 95
+next_printTERM_SESSION_ID
+
+LC_TERMINAL_VERSION VS TERM = -8 old_val = 95
+next_printTERM_SESSION_ID
+
+Apple_PubSub_Socket_Render VS TERM = -19 old_val = 95
+next_printTERM_SESSION_ID
+
+COLORFGBG VS TERM = -17 old_val = 95
+next_printTERM_SESSION_ID
+
+ITERM_PROFILE VS TERM = -11 old_val = 95
+next_printTERM_SESSION_ID
+
+XPC_FLAGS VS TERM = 4 old_val = 95
+next_printXPC_FLAGS
+
+LANG VS TERM = -8 old_val = 4
+next_printXPC_FLAGS
+
+PWD VS TERM = -4 old_val = 4
+next_printXPC_FLAGS
+
+SHELL VS TERM = -1 old_val = 4
+next_printXPC_FLAGS
+
+TERM_PROGRAM_VERSION VS TERM = 95 old_val = 4
+next_printXPC_FLAGS
+
+TERM_PROGRAM VS TERM = 95 old_val = 4
+next_printXPC_FLAGS
+
+PATH VS TERM = -4 old_val = 4
+next_printXPC_FLAGS
+
+LC_TERMINAL VS TERM = -8 old_val = 4
+next_printXPC_FLAGS
+
+COLORTERM VS TERM = -17 old_val = 4
+next_printXPC_FLAGS
+
+TERM VS TERM = 0 old_val = 4
+next_printXPC_FLAGS
+
+HOME VS TERM = -12 old_val = 4
+next_printXPC_FLAGS
+
+TMPDIR VS TERM = 8 old_val = 4
+next_printXPC_FLAGS
+
+USER VS TERM = 1 old_val = 4
+next_printUSER
+
+XPC_SERVICE_NAME VS TERM = 4 old_val = 1
+next_printUSER
+
+LOGNAME VS TERM = -8 old_val = 1
+next_printUSER
+
+ITERM_SESSION_ID VS TERM = -11 old_val = 1
+next_printUSER
+
+__CF_USER_TEXT_ENCODING VS TERM = 11 old_val = 1
+next_printUSER
+
+SHLVL VS TERM = -1 old_val = 1
+next_printUSER
+
+OLDPWD VS TERM = -5 old_val = 1
+next_printUSER
+
+ZSH VS TERM = 6 old_val = 1
+next_printUSER
+
+PAGER VS TERM = -4 old_val = 1
+next_printUSER
+
+LESS VS TERM = -8 old_val = 1
+next_printUSER
+
+LSCOLORS VS TERM = -8 old_val = 1
+next_printUSER
+
+HOMEBREW_CACHE VS TERM = -12 old_val = 1
+next_printUSER
+
+HOMEBREW_TEMP VS TERM = -12 old_val = 1
+next_printUSER
+
+_ VS TERM = 11 old_val = 1
+next_printUSER
+
+TERM_SESSION_ID VS USER = -1 old_val = -1
+next_printUSER
+
+SSH_AUTH_SOCK VS USER = -2 old_val = -1
+next_printUSER
+
+LC_TERMINAL_VERSION VS USER = -9 old_val = -1
+next_printUSER
+
+Apple_PubSub_Socket_Render VS USER = -20 old_val = -1
+next_printUSER
+
+COLORFGBG VS USER = -18 old_val = -1
+next_printUSER
+
+ITERM_PROFILE VS USER = -12 old_val = -1
+next_printUSER
+
+XPC_FLAGS VS USER = 3 old_val = -1
+next_printXPC_FLAGS
+
+LANG VS USER = -9 old_val = 3
+next_printXPC_FLAGS
+
+PWD VS USER = -5 old_val = 3
+next_printXPC_FLAGS
+
+SHELL VS USER = -2 old_val = 3
+next_printXPC_FLAGS
+
+TERM_PROGRAM_VERSION VS USER = -1 old_val = 3
+next_printXPC_FLAGS
+
+TERM_PROGRAM VS USER = -1 old_val = 3
+next_printXPC_FLAGS
+
+PATH VS USER = -5 old_val = 3
+next_printXPC_FLAGS
+
+LC_TERMINAL VS USER = -9 old_val = 3
+next_printXPC_FLAGS
+
+COLORTERM VS USER = -18 old_val = 3
+next_printXPC_FLAGS
+
+TERM VS USER = -1 old_val = 3
+next_printXPC_FLAGS
+
+HOME VS USER = -13 old_val = 3
+next_printXPC_FLAGS
+
+TMPDIR VS USER = -1 old_val =
+declare -x XPC_FLAGS="0x0"
+
+
+
+declare -x ZSH="/Users/alpeliss/.oh-my-zsh"
+
+
+ 3
+next_printXPC_FLAGS
+
+USER VS USER = 0 old_val = 3
+next_printXPC_FLAGS
+
+XPC_SERVICE_NAME VS USER = 3 old_val = 3
+next_printXPC_FLAGS
+
+LOGNAME VS USER = -9 old_val = 3
+next_printXPC_FLAGS
+
+ITERM_SESSION_ID VS USER = -12 old_val = 3
+next_printXPC_FLAGS
+
+__CF_USER_TEXT_ENCODING VS USER = 10 old_val = 3
+next_printXPC_FLAGS
+
+SHLVL VS USER = -2 old_val = 3
+next_printXPC_FLAGS
+
+OLDPWD VS USER = -6 old_val = 3
+next_printXPC_FLAGS
+
+ZSH VS USER = 5 old_val = 3
+next_printXPC_FLAGS
+
+PAGER VS USER = -5 old_val = 3
+next_printXPC_FLAGS
+
+LESS VS USER = -9 old_val = 3
+next_printXPC_FLAGS
+
+LSCOLORS VS USER = -9 old_val = 3
+next_printXPC_FLAGS
+
+HOMEBREW_CACHE VS USER = -13 old_val = 3
+next_printXPC_FLAGS
+
+HOMEBREW_TEMP VS USER = -13 old_val = 3
+next_printXPC_FLAGS
+
+_ VS USER = 10 old_val = 3
+next_printXPC_FLAGS
+
+TERM_SESSION_ID VS XPC_FLAGS = -4 old_val = -1
+next_printXPC_FLAGS
+
+SSH_AUTH_SOCK VS XPC_FLAGS = -5 old_val = -1
+next_printXPC_FLAGS
+
+LC_TERMINAL_VERSION VS XPC_FLAGS = -12 old_val = -1
+next_printXPC_FLAGS
+
+Apple_PubSub_Socket_Render VS XPC_FLAGS = -23 old_val = -1
+next_printXPC_FLAGS
+
+COLORFGBG VS XPC_FLAGS = -21 old_val = -1
+next_printXPC_FLAGS
+
+ITERM_PROFILE VS XPC_FLAGS = -15 old_val = -1
+next_printXPC_FLAGS
+
+XPC_FLAGS VS XPC_FLAGS = 0 old_val = -1
+next_printXPC_FLAGS
+
+LANG VS XPC_FLAGS = -12 old_val = -1
+next_printXPC_FLAGS
+
+PWD VS XPC_FLAGS = -8 old_val = -1
+next_printXPC_FLAGS
+
+SHELL VS XPC_FLAGS = -5 old_val = -1
+next_printXPC_FLAGS
+
+TERM_PROGRAM_VERSION VS XPC_FLAGS = -4 old_val = -1
+next_printXPC_FLAGS
+
+TERM_PROGRAM VS XPC_FLAGS = -4 old_val = -1
+next_printXPC_FLAGS
+
+PATH VS XPC_FLAGS = -8 old_val = -1
+next_printXPC_FLAGS
+
+LC_TERMINAL VS XPC_FLAGS = -12 old_val = -1
+next_printXPC_FLAGS
+
+COLORTERM VS XPC_FLAGS = -21 old_val = -1
+next_printXPC_FLAGS
+
+TERM VS XPC_FLAGS = -4 old_val = -1
+next_printXPC_FLAGS
+
+HOME VS XPC_FLAGS = -16 old_val = -1
+next_printXPC_FLAGS
+
+TMPDIR VS XPC_FLAGS = -4 old_val = -1
+next_printXPC_FLAGS
+
+USER VS XPC_FLAGS = -3 old_val = -1
+next_printXPC_FLAGS
+
+XPC_SERVICE_NAME VS XPC_FLAGS = 13 old_val = -1
+next_printXPC_SERVICE_NAME
+
+LOGNAME VS XPC_FLAGS = -12 old_val = 13
+next_printXPC_SERVICE_NAME
+
+ITERM_SESSION_ID VS XPC_FLAGS = -15 old_val = 13
+next_printXPC_SERVICE_NAME
+
+__CF_USER_TEXT_ENCODING VS XPC_FLAGS = 7 old_val = 13
+next_print__CF_USER_TEXT_ENCODING
+
+SHLVL VS XPC_FLAGS = -5 old_val = 7
+next_print__CF_USER_TEXT_ENCODING
+
+OLDPWD VS XPC_FLAGS = -9 old_val = 7
+next_print__CF_USER_TEXT_ENCODING
+
+ZSH VS XPC_FLAGS = 2 old_val = 7
+next_printZSH
+
+PAGER VS XPC_FLAGS = -8 old_val = 2
+next_printZSH
+
+LESS VS XPC_FLAGS = -12 old_val = 2
+next_printZSH
+
+LSCOLORS VS XPC_FLAGS = -12 old_val = 2
+next_printZSH
+
+HOMEBREW_CACHE VS XPC_FLAGS = -16 old_val = 2
+next_printZSH
+
+HOMEBREW_TEMP VS XPC_FLAGS = -16 old_val = 2
+next_printZSH
+
+_ VS XPC_FLAGS = 7 old_val = 2
+next_printZSH
+
+TERM_SESSION_ID VS ZSH = -6 old_val = -1
+next_printZSH
+
+SSH_AUTH_SOCK VS ZSH = -7 old_val = -1
+next_printZSH
+
+LC_TERMINAL_VERSION VS ZSH = -14 old_val = -1
+next_printZSH
+
+Apple_PubSub_Socket_Render VS ZSH = -25 old_val = -1
+next_printZSH
+
+COLORFGBG VS ZSH = -23 old_val = -1
+next_printZSH
+
+ITERM_PROFILE VS ZSH = -17 old_val = -1
+next_printZSH
+
+XPC_FLAGS VS ZSH = -2 old_val = -1
+next_printZSH
+
+LANG VS ZSH = -14 old_val = -1
+next_printZSH
+
+PWD VS ZSH = -10 old_val = -1
+next_printZSH
+
+SHELL VS ZSH = -7 old_val = -1
+next_printZSH
+
+TERM_PROGRAM_VERSION VS ZSH = -6 old_val = -1
+next_printZSH
+
+TERM_PROGRAM VS ZSH = -6 old_val = -1
+next_printZSH
+
+PATH VS ZSH = -10 old_val = -1
+next_printZSH
+
+LC_TERMINAL VS ZSH = -14 old_val = -1
+next_printZSH
+
+COLORTERM VS ZSH = -23 old_val = -1
+next_printZSH
+
+TERM VS ZSH = -6 old_val = -1
+next_printZSH
+
+HOME VS ZSH = -18 old_val = -1
+next_printZSH
+
+TMPDIR VS ZSH = -6 old_val = -1
+next_printZSH
+
+USER VS ZSH = -5 old_val = -1
+next_printZSH
+
+XPC_SERVICE_NAME VS ZSH = -2 old_val = -1
+next_printZSH
+
+LOGNAME VS ZSH = -14 old_val = -1
+next_printZSH
+
+ITERM_SESSION_ID VS ZSH = -17 old_val = -1
+next_printZSH
+
+__CF_USER_TEXT_ENCODING VS ZSH = 5 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+SHLVL VS ZSH = -7 old_val = 5
+next
+declare -x _="/Users/alpeliss/minishell/./minishell"
+
+
+
+declare -x __CF_USER_TEXT_ENCODING="0x0:0:0"
+
+
+_print__CF_USER_TEXT_ENCODING
+
+OLDPWD VS ZSH = -11 old_val = 5
+next_print__CF_USER_TEXT_ENCODING
+
+ZSH VS ZSH = 0 old_val = 5
+next_print__CF_USER_TEXT_ENCODING
+
+PAGER VS ZSH = -10 old_val = 5
+next_print__CF_USER_TEXT_ENCODING
+
+LESS VS ZSH = -14 old_val = 5
+next_print__CF_USER_TEXT_ENCODING
+
+LSCOLORS VS ZSH = -14 old_val = 5
+next_print__CF_USER_TEXT_ENCODING
+
+HOMEBREW_CACHE VS ZSH = -18 old_val = 5
+next_print__CF_USER_TEXT_ENCODING
+
+HOMEBREW_TEMP VS ZSH = -18 old_val = 5
+next_print__CF_USER_TEXT_ENCODING
+
+_ VS ZSH = 5 old_val = 5
+next_print_
+
+TERM_SESSION_ID VS _ = -11 old_val = -1
+next_print_
+
+SSH_AUTH_SOCK VS _ = -12 old_val = -1
+next_print_
+
+LC_TERMINAL_VERSION VS _ = -19 old_val = -1
+next_print_
+
+Apple_PubSub_Socket_Render VS _ = -30 old_val = -1
+next_print_
+
+COLORFGBG VS _ = -28 old_val = -1
+next_print_
+
+ITERM_PROFILE VS _ = -22 old_val = -1
+next_print_
+
+XPC_FLAGS VS _ = -7 old_val = -1
+next_print_
+
+LANG VS _ = -19 old_val = -1
+next_print_
+
+PWD VS _ = -15 old_val = -1
+next_print_
+
+SHELL VS _ = -12 old_val = -1
+next_print_
+
+TERM_PROGRAM_VERSION VS _ = -11 old_val = -1
+next_print_
+
+TERM_PROGRAM VS _ = -11 old_val = -1
+next_print_
+
+PATH VS _ = -15 old_val = -1
+next_print_
+
+LC_TERMINAL VS _ = -19 old_val = -1
+next_print_
+
+COLORTERM VS _ = -28 old_val = -1
+next_print_
+
+TERM VS _ = -11 old_val = -1
+next_print_
+
+HOME VS _ = -23 old_val = -1
+next_print_
+
+TMPDIR VS _ = -11 old_val = -1
+next_print_
+
+USER VS _ = -10 old_val = -1
+next_print_
+
+XPC_SERVICE_NAME VS _ = -7 old_val = -1
+next_print_
+
+LOGNAME VS _ = -19 old_val = -1
+next_print_
+
+ITERM_SESSION_ID VS _ = -22 old_val = -1
+next_print_
+
+__CF_USER_TEXT_ENCODING VS _ = 95 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+SHLVL VS _ = -12 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+OLDPWD VS _ = -16 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+ZSH VS _ = -5 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+PAGER VS _ = -15 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+LESS VS _ = -19 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+LSCOLORS VS _ = -19 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+HOMEBREW_CACHE VS _ = -23 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+HOMEBREW_TEMP VS _ = -23 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+_ VS _ = 0 old_val = 95
+next_print__CF_USER_TEXT_ENCODING
+
+TERM_SESSION_ID VS __CF_USER_TEXT_ENCODING = -11 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+SSH_AUTH_SOCK VS __CF_USER_TEXT_ENCODING = -12 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+LC_TERMINAL_VERSION VS __CF_USER_TEXT_ENCODING = -19 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+Apple_PubSub_Socket_Render VS __CF_USER_TEXT_ENCODING = -30 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+COLORFGBG VS __CF_USER_TEXT_ENCODING = -28 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+ITERM_PROFILE VS __CF_USER_TEXT_ENCODING = -22 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+XPC_FLAGS VS __CF_USER_TEXT_ENCODING = -7 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+LANG VS __CF_USER_TEXT_ENCODING = -19 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+PWD VS __CF_USER_TEXT_ENCODING = -15 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+SHELL VS __CF_USER_TEXT_ENCODING = -12 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+TERM_PROGRAM_VERSION VS __CF_USER_TEXT_ENCODING = -11 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+TERM_PROGRAM VS __CF_USER_TEXT_ENCODING = -11 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+PATH VS __CF_USER_TEXT_ENCODING = -15 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+LC_TERMINAL VS __CF_USER_TEXT_ENCODING = -19 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+COLORTERM VS __CF_USER_TEXT_ENCODING = -28 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+TERM VS __CF_USER_TEXT_ENCODING = -11 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+HOME VS __CF_USER_TEXT_ENCODING = -23 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+TMPDIR VS __CF_USER_TEXT_ENCODING = -11 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+USER VS __CF_USER_TEXT_ENCODING = -10 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+XPC_SERVICE_NAME VS __CF_USER_TEXT_ENCODING = -7 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+LOGNAME VS __CF_USER_TEXT_ENCODING = -19 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+ITERM_SESSION_ID VS __CF_USER_TEXT_ENCODING = -22 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+__CF_USER_TEXT_ENCODING VS __CF_USER_TEXT_ENCODING = 0 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+SHLVL VS __CF_USER_TEXT_ENCODING = -12 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+OLDPWD VS __CF_USER_TEXT_ENCODING = -16 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+ZSH VS __CF_USER_TEXT_ENCODING = -5 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+PAGER VS __CF_USER_TEXT_ENCODING = -15 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+LESS VS __CF_USER_TEXT_ENCODING = -19 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+LSCOLORS VS __CF_USER_TEXT_ENCODING = -19 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+HOMEBREW_CACHE VS __CF_USER_TEXT_ENCODING = -23 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+HOMEBREW_TEMP VS __CF_USER_TEXT_ENCODING = -23 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
+_ VS __CF_USER_TEXT_ENCODING = -95 old_val = -1
+next_print__CF_USER_TEXT_ENCODING
+
