@@ -1,44 +1,44 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   msh_interpreter.c                                  :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: ancoulon <ancoulon@student.s19.be>         +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2021/03/16 15:27:25 by ancoulon          #+#    #+#             */
+/*   Updated: 2021/03/17 16:24:38 by ancoulon         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "msh/interpreter.h"
 
 #include "msh/shared.h"
 #include "msh/environement.h"
-#include "carbon/str.h"
-#include "carbon/fmt.h"
 #include <sys/types.h>
 #include <unistd.h>
 #include <sys/wait.h>
 #include <stdio.h>
 
-static int execute(t_prog *prog)
+int	msh_interpreter(t_llst *cmds)
 {
 	char	**envp;
 	pid_t	child_pid;
 	int		stat_loc;
 
+	(void)cmds;
 	envp = msh_env_all();
 	child_pid = fork();
 	if (child_pid < 0)
 		msh_exit(1, "fork fail");
 	else if (child_pid == 0)
 	{
-		if (prog->in_fd != STDIN_FILENO)
-			dup2(prog->in_fd, STDIN_FILENO);
-		if (prog->out_fd != STDOUT_FILENO)
-			dup2(prog->out_fd, STDOUT_FILENO);
-		execve(prog->argv[0], prog->argv, envp);
+		printf("test\n");
+		char *argv[] = {"sleep", "10", NULL};
+		execve(argv[0], argv, envp);
 	}
 	else
 	{
 		waitpid(child_pid, &stat_loc, WUNTRACED);
 	}
 	return (0);
-}
-
-int	msh_interpreter(t_prog *prog)
-{
-	int	ret;
-	if (!str_cmp(prog->argv[0], "exit"))
-		msh_exit(STDOUT_FILENO, "exit");
-	ret = execute(prog);
-	return (ret);
 }

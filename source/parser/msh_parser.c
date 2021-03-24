@@ -1,8 +1,19 @@
-#include "msh/parser.h"
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   msh_parser.c                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: ancoulon <ancoulon@student.s19.be>         +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2021/02/23 16:04:19 by ancoulon          #+#    #+#             */
+/*   Updated: 2021/03/16 16:40:48 by ancoulon         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
 
-int		msh_parse(char *line, t_prog **prog)
+#include "msh.h"
+
+t_llst	*msh_parse(char *line)
 {
 	(void)line;
-	(void)prog;
-	return (0);
+	return (NULL);
 }

@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   msh_env_all.c                                      :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: ancoulon <ancoulon@student.s19.be>         +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2021/03/17 15:26:39 by ancoulon          #+#    #+#             */
+/*   Updated: 2021/03/17 16:02:51 by ancoulon         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "msh/environement.h"
 
 #include "msh/shared.h"
@@ -10,7 +22,7 @@ t_llst	*g_msh_env;
 
 char **msh_env_all(void)
 {
-	char	**envp;
+/*	char	**envp;
 	size_t	len;
 	size_t	i;
 	t_llst	*node;
@@ -31,6 +43,6 @@ char **msh_env_all(void)
 		((t_env *)node->data)->def);
 		node = node->next;
 		i++;
-	}
-	return (envp);
+	}*/
+	return (NULL);
 }

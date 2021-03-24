@@ -1,29 +1,21 @@
-#include "msh.h"
+#include "../../include/msh.h"
 
-#include "carbon.h"
-#include <stdio.h>
-
-int
-	main(int argc, char **argv, char **envp)
+int main(int ac, char **av, char **env)
 {
-	char	*line;
-	int		status;
-	t_prog	*prog;
+	t_prog pr;
+	
 
-	(void)argc;
-	(void)argv;
-	msh_env(envp);
-	status = 0;
-	while (!status)
-	{
-		line = msh_prompt("msh$ ");
-		msh_parse(line, &prog);
-		msh_interpreter(prog); // will segfault until parser is done
-		while (msh_parse(NULL, &prog) > 0)
-		{
-			msh_interpreter(prog);
-		}
-		fmt_print("\n");
-	}
-	return (0);
+	msh_env(env);
+	pr.argc = ac - 1;
+	pr.argv = &av[1];
+	pr.in_fd = 0;
+	pr.out_fd = 1;
+//	ft_pwd(pr);
+//	env_print();
+	builtin_exe(pr);
+//	pr.argc = 1;
+//	builtin_exe(pr);
+//	env_print();
+//	ft_pwd(pr);
+	return(0);
 }

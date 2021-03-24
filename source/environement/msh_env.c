@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   msh_env.c                                          :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: ancoulon <ancoulon@student.s19.be>         +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2021/03/16 11:03:24 by ancoulon          #+#    #+#             */
+/*   Updated: 2021/03/17 15:58:40 by ancoulon         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "msh/environement.h"
 
 #include "msh/shared.h"
@@ -8,7 +20,7 @@
 
 t_llst	*g_msh_env;
 
-static t_env	*env_new(void)
+t_env	*env_new(void)
 {
 	t_env	*entry;
 
